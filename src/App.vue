@@ -11,13 +11,13 @@ import HelloWorld from './components/HelloWorld.vue'
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <router-link class="nav-link active" aria-current="page" to="/">dashboard</router-link>
+          <router-link class="nav-link active" aria-current="page" to="/">Dashboard</router-link>
         </li>
         <li class="nav-item">
-          <router-link class="nav-link" to="/about">about</router-link>
+          <router-link class="nav-link" to="/about">About</router-link>
         </li>
         <li class="nav-item">
-          <router-link class="nav-link" to="/user">user</router-link>
+          <router-link class="nav-link" to="/user">User</router-link>
         </li>
       </ul>
     </div>
